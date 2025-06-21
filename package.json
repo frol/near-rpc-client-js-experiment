@@ -1,0 +1,17 @@
+{
+  "name": "near-rpc-client",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "openapi-ts": "openapi-ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hey-api/client-fetch": "^0.10.0"
+  },
+  "devDependencies": {
+    "@hey-api/openapi-ts": "^0.66.5"
+  }
+}
